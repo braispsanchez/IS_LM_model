@@ -1,3 +1,6 @@
+if(!require(shinyWidgets)) install.packages("shinyWidgets")
+if(!require(shinyWidgets)) install.packages("tidyverse")
+
 library(shiny)
 library(shinyWidgets)
 library(tidyverse)
