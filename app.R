@@ -1,5 +1,5 @@
 if(!require(shinyWidgets)) install.packages("shinyWidgets")
-if(!require(shinyWidgets)) install.packages("tidyverse")
+if(!require(tidyverse)) install.packages("tidyverse")
 
 library(shiny)
 library(shinyWidgets)
